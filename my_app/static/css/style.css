@@ -5,7 +5,10 @@
 
 .card-image {
     height: 250px;
+    object-fit: fill;
     overflow: hidden;
 }
+
+
 
 
